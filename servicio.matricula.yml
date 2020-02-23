@@ -6,4 +6,4 @@ eureka:
 
 # HTTP Server
 server:
-  port: ${PORT:4444}   # HTTP (Tomcat) port
+  port: ${PORT:5555}   # HTTP (Tomcat) port
